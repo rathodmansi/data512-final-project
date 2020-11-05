@@ -27,6 +27,8 @@ The data is publicly available and under the CC0: Public Domain license.The data
 ### Unknown Dependency
 <br>
 
+The above dataset contains only 10 features and has the information for a limited time duration only. So, our analysis will be limited to the insights from these 10 features only. But I belive, this should still give us important insights and answer our research questions.
+
 Currently, I havn't come acorss any factor or limitations that would hamper the progress of this project.
 
 #### License
